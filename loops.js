@@ -18,9 +18,9 @@ for (let i = 0; i < 25; i++) {
 }
 
 var number = 100
-function whileLoop(number) {
-  number > -1
-  number--;
+function whileLoop(n) {
+  n > -1
+  n--;
   }
   while (whileLoop()) {
   console.log(number)
