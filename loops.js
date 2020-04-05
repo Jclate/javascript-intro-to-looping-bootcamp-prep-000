@@ -30,5 +30,5 @@ do {
   return number;
 
 }
-  while(dowhile < num)
+  while(number < num)
 }
