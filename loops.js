@@ -11,8 +11,9 @@ for (let i = 0; i < 25; i++) {
     array.push = `I am ${i} strange loops.`
     return [array, i]
   }
-forLoop(array)
+
 }
+forLoop(a)
 /*
 var n = 100
 function whileLoop(n) {
