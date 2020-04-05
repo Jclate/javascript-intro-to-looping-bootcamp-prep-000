@@ -30,5 +30,5 @@ do {
   return num;
 
 }
-  while(doWhileLoop(num) < 10)
+  while(num < 10)
 }
