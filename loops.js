@@ -7,6 +7,7 @@ for (let i = 0; i < 25; i++) {
     return [array, i]
 
   else {}*/
+  console.log("blah")
     array.push = `I am ${i} strange loops.`
     return [array, i]
   }
