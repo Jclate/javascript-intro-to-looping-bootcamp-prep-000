@@ -12,8 +12,7 @@ for (let i = 0; i < 25; i++) {
 return array
 }
 forLoop(array)
-/*
-var n = 100
+
 function whileLoop(n) {
   n > -1
   n--;
