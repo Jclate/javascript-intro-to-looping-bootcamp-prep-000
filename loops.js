@@ -29,7 +29,7 @@ function whileLoop(n) {
 
 
 let num = 0
-function doWhileLoop() {
+function doWhileLoop(num) {
     num = num + 1;
     return num;
 
