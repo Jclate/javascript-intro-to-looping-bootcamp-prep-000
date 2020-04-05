@@ -4,7 +4,7 @@ for (let i = 0; i < 25; i++) {
   if (i === 0) {
     array.push = `I am ${i} strange loop.`
     console.log(array[i])
-    return array[i]
+    return [array, i]
   }
   else {
     array.push = `I am ${i} strange loops.`
