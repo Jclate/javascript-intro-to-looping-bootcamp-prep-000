@@ -14,14 +14,12 @@ return array
 forLoop(array)
 
 function whileLoop(n) {
-  n > -1
-  n--;
-  }
-  while (whileLoop(n)) {
+  while (n > 0) {
   console.log(n)
+  n--
   }
   return "done"
-
+}
 
 let num = 0
 function doWhileLoop(num) {
