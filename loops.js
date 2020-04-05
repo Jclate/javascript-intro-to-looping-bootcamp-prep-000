@@ -1,5 +1,5 @@
 const array = []
-function forLoop(array) {
+function forLoojp(array) {
 for (let i = 0; i < 25; i++) {
   /*if (i === 0) {
     array.push = `I am ${i} strange loop.`
