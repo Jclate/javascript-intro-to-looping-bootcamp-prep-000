@@ -1,15 +1,14 @@
 const array = []
 function forLoop(array) {
 for (let i = 0; i < 25; i++) {
-  /*if (i === 0) {
+  if (i === 0) {
     array.push = `I am ${i} strange loop.`
-    console.log(array[i])
-    return [array, i]
+    s
 
   else {}*/
   console.log("blah")
     array.push = `I am ${i} strange loops.`
-    
+
   }
 
 }
