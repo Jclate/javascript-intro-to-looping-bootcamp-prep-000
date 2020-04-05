@@ -27,7 +27,7 @@ do {
 
   console.log("I run once regardless.")
   number++
-  return number;
+  
 
 }
   while(number < num)
