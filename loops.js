@@ -23,9 +23,11 @@ function whileLoop(n) {
 
 
 function doWhileLoop(num) {
+  num = num + 1;
+  return num;
 do {
   console.log("I run once regardless.")
-  num = num + 1;
+
 
 }
   while(doWhileLoop(num) < 10)
