@@ -21,14 +21,14 @@ function whileLoop(n) {
   return "done"
 }
 
-
+let number = 0
 function doWhileLoop(num) {
 do {
 
   console.log("I run once regardless.")
-  num = num + 1;
-  return num;
+  number = number + 1;
+  return number;
 
 }
-  while(num < 10)
+  while(dowhile < num)
 }
