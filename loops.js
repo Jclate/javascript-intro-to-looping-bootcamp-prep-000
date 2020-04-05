@@ -8,8 +8,6 @@ for (let i = 0; i < 25; i++) {
 
   else {}*/
     array.push = `I am ${i} strange loops.`
-    console.log(array[i])
-  return [array, i]
   }
 }
  console.log(array[i])
