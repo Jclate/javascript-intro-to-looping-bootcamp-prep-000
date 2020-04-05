@@ -22,7 +22,7 @@ function whileLoop(n) {
   n > -1
   n--;
   }
-  while (whileLoop()) {
+  while (whileLoop(n)) {
   console.log(n)
   }
   return "done"
