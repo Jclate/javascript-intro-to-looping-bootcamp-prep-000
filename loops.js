@@ -13,7 +13,7 @@ for (let i = 0; i < 25; i++) {
   }
 
 }
-forLoop(a)
+forLoop(array)
 /*
 var n = 100
 function whileLoop(n) {
