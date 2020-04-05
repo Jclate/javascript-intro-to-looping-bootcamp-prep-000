@@ -12,11 +12,11 @@ for (let i = 0; i < 25; i++) {
     return array[i]
   }
 }
-/*  console.log(array[i])
+ console.log(array[i])
   return (array[i])
 }
 }
-/*
+
 var number = 100
 function whileLoop(number) {
   number > -1
