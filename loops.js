@@ -17,7 +17,7 @@ for (let i = 0; i < 25; i++) {
 }
 }
 
-var number = 100
+var n = 100
 function whileLoop(n) {
   n > -1
   n--;
