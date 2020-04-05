@@ -21,7 +21,7 @@ function whileLoop(n) {
   return "done"
 }
 
-let num = 0
+
 function doWhileLoop(num) {
     num = num + 1;
     return num;
