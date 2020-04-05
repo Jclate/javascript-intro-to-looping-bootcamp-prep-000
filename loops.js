@@ -26,7 +26,7 @@ function doWhileLoop(num) {
 do {
 
   console.log("I run once regardless.")
-  number = number + 1;
+  number++
   return number;
 
 }
