@@ -1,12 +1,12 @@
 var array = []
 function forLoop(array) {
 for (let i = 0; i < 25; i++) {
-  if (i === 0) {
+  /*if (i === 0) {
     array.push(i)
     array[i] = `I am ${i} strange loop.`
     return array[i]
   }
-  else {
+  else {*/
     array.push(i)
     array[i] = `I am ${i} strange loops.`
     return array[i]
