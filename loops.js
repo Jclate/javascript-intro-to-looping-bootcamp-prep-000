@@ -4,10 +4,12 @@ for (let i = 0; i < 25; i++) {
   if (i === 0) {
     array.push(i)
     array[i] = `I am ${i} strange loop.`
+    return array[i]
   }
   else {
     array.push(i)
     array[i] = `I am ${i} strange loops.`
+    return array[i]
   }
 }
 /*  console.log(array[i])
